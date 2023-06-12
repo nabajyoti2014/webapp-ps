@@ -1,0 +1,7 @@
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\AzureWebApp01.exe
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\appsettings.Development.json
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\appsettings.json
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\AzureWebApp01.dll
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\AzureWebApp01.deps.json
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\AzureWebApp01.runtimeconfig.json
+C:\az-204-demo\AzureWebApp01\bin\Release\net6.0\publish\AzureWebApp01.pdb
